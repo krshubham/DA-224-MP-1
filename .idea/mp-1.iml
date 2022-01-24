@@ -9,6 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="$MODULE_DIR$/requirements.txt" />
     <option name="removeUnused" value="true" />
   </component>
   <component name="PyDocumentationSettings">
