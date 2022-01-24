@@ -21,3 +21,6 @@ Team Members:
 5. Work in separate branches. The merges for notebooks will happen using a special tool called *ReviewNB*. I have
    already integrated it with our project!
 6. Let's get this done!
+
+
+## Storing Modelsg
