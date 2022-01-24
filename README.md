@@ -9,6 +9,8 @@ Team Members:
 
 ## Coding guidelines:
 
+**PyCharm is recommended IDE, rest is upto you, just follow the below standards!gs**
+
 1. All code has to be checked into corresponding folders
 2. ```main.py``` should be the entrypoint for the project. Meaning this program should be able to take different
    arguments in order to demonstrate different results
